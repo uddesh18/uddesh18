@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uddesh18
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning python for Data Science.
+- 👀 I’m interested in Back end Developing.
+- 🌱 I’m currently working on projects.
 - 💞️ I’m looking to collaborate on project.
 - 📫 dm me Insta @uddeshtak17
 
