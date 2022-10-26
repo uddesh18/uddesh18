@@ -2,7 +2,7 @@
 - 👀 I’m interested in Back end Developing.
 - 🌱 I’m currently working on projects.
 - 💞️ I’m looking to collaborate on project.
-- 📫 Yet i havent uploaded projects
+- 📫 i have uploaded projects
 
 <!---
 uddesh18/uddesh18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
