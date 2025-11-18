@@ -1,4 +1,1 @@
-Obsessed with studying the underlying principles.
-- DevOps
-- MLOps
-- CyberSec
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uddeshtakpere&layout=compact&theme=dark)
