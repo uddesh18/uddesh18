@@ -43,8 +43,8 @@
 ---
 
 ### 🌐 Socials
-<p align="centre">
-  <img src="https://www.linkedin.com/in/uddesh-t-7195b617b/" alt="docker" />
+<p align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/uddesh-t-7195b617b/)
 </p>
 
 ---
