@@ -40,18 +40,18 @@ I’m passionate about solving complex infrastructure challenges, eliminating ma
 
 ---
 
+### 📊 LeetCode Progress
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/uddesht_1009?theme=dark" />
+</p>
+
+---
+
 ### 🏆 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=uddesh18&theme=tokyonight" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=uddesh18&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-### 📊 LeetCode Progress
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/uddesht_1009?theme=dark" />
 </p>
 
 ---
