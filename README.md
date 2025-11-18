@@ -10,6 +10,17 @@
 
 ---
 
+### 🚀 About Me
+<p align="center">
+I’m a Software Engineer - DevOps focused on building scalable, observable, and automated backend systems. With hands-on experience across CI/CD, monitoring, containerization, and cloud infrastructure, I love creating systems that are fast, reliable, and secure.
+
+I work extensively with Docker, Kubernetes, Jenkins, Prometheus, Grafana, ELK, Nginx, Terraform, and AWS — combining strong backend engineering (Go, Python, JS) with production-grade DevOps practices.
+
+I enjoy solving complex reliability challenges, automating everything possible, and designing clean deployment workflows.
+</p>
+
+---
+
 ### 🔥 Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uddesh18&layout=compact&theme=tokyonight" alt="most used languages" />
@@ -42,24 +53,6 @@
 
 ---
 
-### 🌐 Socials
-<p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/uddesh-t-7195b617b/)
-</p>
-
----
-
-### 🚀 About Me
-<p align="center">
-I’m a Software Engineer & DevOps practitioner focused on building scalable, observable, and automated backend systems. With hands-on experience across CI/CD, monitoring, containerization, and cloud infrastructure, I love creating systems that are fast, reliable, and secure.
-
-I work extensively with Docker, Kubernetes, Jenkins, Prometheus, Grafana, ELK, Nginx, Terraform, and AWS — combining strong backend engineering (Go, Python, JS) with production-grade DevOps practices.
-
-I enjoy solving complex reliability challenges, automating everything possible, and designing clean deployment workflows.
-</p>
-
----
-
 ### 📊 LeetCode Progress
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/uddesht_1009?theme=dark" alt="leetcode stats" />
@@ -67,20 +60,9 @@ I enjoy solving complex reliability challenges, automating everything possible, 
 
 ---
 
-### 📈 Contribution visuals
-
+### 🌐 Socials
 <p align="center">
-  <!-- Activity graph (contribution calendar style) -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=uddesh18&theme=react-dark&width=700" alt="contribution-graph" />
-
-  <!-- Contributions grid (good alternative / "snake-like" visualization service) -->
-  <br/><br/>
-  <img src="https://github-contributions.vercel.app/api?username=uddesh18" alt="contributions-grid" />
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/uddesh-t-7195b617b/)
 </p>
 
 ---
-
-### 🔚 Footer
-<p align="center">
-  <sub>Made with ❤️ & DevOps tooling • Reach out on LinkedIn</sub>
-</p>
