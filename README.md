@@ -2,11 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Uddesh%20Takpere%20%7C%20DevOps%20Engineer&fontSize=45&fontColor=ffffff" alt="banner"/>
 </p>
 
-<h1 align="center">Hi, I'm Uddesh 👋</h1>
+<h1 align="center">Hi👋</h1>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://leetcard.jacoblin.cool/uddesht_1009?theme=dark&font=Nunito&extension=activity" alt="leetcard" />
-</p>
+</p> -->
 
 ---
 
