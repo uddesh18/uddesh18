@@ -8,13 +8,6 @@
   <img src="https://leetcard.jacoblin.cool/uddesht_1009?theme=dark&font=Nunito&extension=activity" alt="leetcard" />
 </p>
 
-<p align="center">
-  <!-- Animated terminal / typing GIF -->
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="typing" width="220" style="margin-right:16px;" />
-  <!-- Animated pipeline / CI GIF -->
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" alt="pipeline" width="220" />
-</p>
-
 ---
 
 ### 🔥 Most Used Languages
@@ -50,8 +43,8 @@
 ---
 
 ### 🌐 Socials
-<p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/uddesh-t-7195b617b/)
+<p align="centre">
+  <img src="https://www.linkedin.com/in/uddesh-t-7195b617b/" alt="docker" />
 </p>
 
 ---
