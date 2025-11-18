@@ -56,15 +56,6 @@ I’m passionate about solving complex infrastructure challenges, eliminating ma
 
 ---
 
-### 📈 Contribution Visuals
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=uddesh18&theme=react-dark&width=700" />
-  <br/><br/>
-  <img src="https://github-contributions.vercel.app/api?username=uddesh18" />
-</p>
-
----
-
 ### 🌐 Socials
 <p align="center">
   <a href="https://www.linkedin.com/in/uddesh-t-7195b617b/">
@@ -73,8 +64,3 @@ I’m passionate about solving complex infrastructure challenges, eliminating ma
 </p>
 
 ---
-
-### 🔚 Footer
-<p align="center">
-  <sub>Made with ❤️ & DevOps tooling • Connect with me on LinkedIn</sub>
-</p>
