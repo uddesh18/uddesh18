@@ -61,6 +61,12 @@ I’m passionate about solving complex infrastructure challenges, eliminating ma
   <a href="https://www.linkedin.com/in/uddesh-t-7195b617b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
+  <a href="https://stackoverflow.com/users/17549284/uddesh-ravindra-takpere">
+    <img src="https://img.shields.io/badge/StackOverflow-F58025?logo=stackoverflow&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://forem.com/uddesh_ravindratakpere_f">
+    <img src="https://img.shields.io/badge/Forem-0A0A0A?logo=dev.to&logoColor=white&style=for-the-badge" />
+  </a>
 </p>
 
 ---
