@@ -4,7 +4,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 <p align="center">
 I’m a <strong>Software Engineer - DevOps</strong> with a strong focus on building reliable, scalable, and automated backend and infrastructure systems.  
 <br/><br/>
